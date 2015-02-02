@@ -2,6 +2,18 @@
 Changelog for package move_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.11.14 (2014-12-05)
+--------------------
+* use timer rather than rate for immediate wakeup
+* adding lock to planner makePlan fail case
+* Contributors: Michael Ferguson, phil0stine
+
+1.11.13 (2014-10-02)
+--------------------
+
+1.11.12 (2014-10-01)
+--------------------
+
 1.11.11 (2014-07-23)
 --------------------
 * removes trailing spaces and empty lines

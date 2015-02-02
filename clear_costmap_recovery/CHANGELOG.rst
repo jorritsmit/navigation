@@ -2,6 +2,20 @@
 Changelog for package clear_costmap_recovery
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.11.14 (2014-12-05)
+--------------------
+
+1.11.13 (2014-10-02)
+--------------------
+* Fix the build (layers library is exported by costmap_2d)
+* Contributors: Michael Ferguson
+
+1.11.12 (2014-10-01)
+--------------------
+* Clarify debug messages
+* Initial Clearing Costmap parameter change
+* Contributors: David Lu!!, Michael Ferguson
+
 1.11.11 (2014-07-23)
 --------------------
 
